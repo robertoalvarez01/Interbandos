@@ -1,0 +1,55 @@
+header{
+	background-color: #2c3e50;
+	color: #fff;
+}
+.comenzar {
+	position: relative; top: 200px;
+}
+
+.resultados {
+	text-align: center;
+	height: 33%;
+}
+
+label{
+	font-size: 20px;
+}
+
+.puntos{
+	font-size: 445%;
+}
+
+.azul{
+	background-color: #007bff;
+	border-radius: 2px;
+	border
+}
+
+.amarillo {
+	background-color: #ffc107 ;
+	border-radius: 2px;
+}
+
+.blanco{
+	border-radius: 2px;
+}
+
+.equipo{
+	border-radius: 4px;
+	font-size: 30px;
+}
+.input-group-addon {
+	background-color: #007bff;
+}
+
+.f{
+	background-color: #ffc107;
+}
+
+.b{
+	background-color: #fff;
+}
+
+.a{
+	background-color: #007bff;
+}
